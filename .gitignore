@@ -1,0 +1,9 @@
+softlight-agent-env/
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+out.txt
+.DS_Store

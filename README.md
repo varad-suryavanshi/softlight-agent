@@ -1,5 +1,5 @@
 
-# Softlight Agent — Browser Automation with Playwright + GPT-5
+Browser Automation with Playwright + GPT-5
 
 A small, pragmatic agent that drives real web apps (e.g., Linear, Notion, Asana) using **Playwright** for control and **GPT-5** for planning. It captures a dataset of screenshots + metadata for each task and includes guardrails for auth flows, dialogs, and chip-style property pickers.
 
